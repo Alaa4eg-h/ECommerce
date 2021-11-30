@@ -2,6 +2,7 @@
 
 <?php
 
+    include 'connect.php';
 
 // Routes
 
